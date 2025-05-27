@@ -1,26 +1,50 @@
-# 👋 ¡Hola! Soy Iván Grandi
+# 👋 Hello, I'm Ivan Grandi
 
-Estudiante de Ingeniería en Software apasionado por el desarrollo web y la inteligencia artificial. Aquí puedes encontrar una selección de mis proyectos académicos y personales.
+I'm a third-year student at **Efrei Paris**, motivated, curious, and always ready to take on new challenges.  
+Throughout my journey, I've developed key skills such as **discipline**, **adaptability**, and a **strong desire to learn**.
 
----
-
-## 🚀 Proyectos Destacados
-
-### 🔧 Sistema de gestión de reparaciones de autos
-Repositorio: [github.com/otro-usuario/proyecto-reparaciones](https://github.com/otro-usuario/proyecto-reparaciones)  
-**Rol:** Desarrollo del frontend con Vue.js y conexión con backend REST.  
-**Tecnologías:** Vue, Node.js, Express, MongoDB
+Welcome to my personal GitHub page! Below you'll find a selection of my projects across web development and software engineering.
 
 ---
 
-### 🧠 Clasificador de palabras con TensorFlow
-Repositorio: [github.com/mi-usuario/clasificador-palabras](https://github.com/mi-usuario/clasificador-palabras)  
-**Rol:** Desarrollo completo del modelo de deep learning para clasificación de audio.  
-**Tecnologías:** Python, TensorFlow, NumPy, Matplotlib
+## 💡 Projects
+
+### 🌱 [GreenGizmos](https://green-it-vuejs.vercel.app/)
+A fullstack **Green IT** application focused on sustainability.
+- **Frontend**: Vue.js  
+- **Backend**: Node.js + Express  
+- Hosted on [Vercel](https://vercel.com), with a database on [Railway](https://railway.com).  
+👉 [View live site](https://green-it-vuejs.vercel.app/) · [GitHub repo](#)
 
 ---
 
-## 📫 Contacto
-- ✉️ ivangrandi@email.com
-- 🔗 [LinkedIn](https://linkedin.com/in/ivangrandi)
-- 💻 [GitHub](https://github.com/ivangrandi)
+### 🎲 [GameGizmos](#)
+A platform for **rating board games** and **participating in events**.
+- Role-based access for guests and users  
+- Users can rate games and join events  
+👉 [GitHub repo](#)
+
+---
+
+### 🛒 [Furniture Store – Ecommerce Website](#)
+An ecommerce platform for buying **home furniture**, inspired by IKEA.  
+Includes login system with roles (guest, user, admin).  
+👉 [GitHub repo](#)
+
+---
+
+### 🌍 [Welcome to Paris – Static Website](#)
+A **touristic guide to Paris**, built using **HTML, CSS, and JavaScript**.  
+Developed as part of our introductory web development courses.  
+👉 [GitHub repo](#)
+
+---
+
+### 🏗️ [Rolando Grandi Ingeniería Estructural](https://rolando-grandi-ingenieria-estructural.com/)
+A **static website** created for a civil engineering company, showcasing services in structural design and pathology.  
+Built with **WordPress**.  
+👉 [Visit website](https://rolando-grandi-ingenieria-estructural.com/)
+
+---
+
+Feel free to explore the repositories for more technical details and instructions.
