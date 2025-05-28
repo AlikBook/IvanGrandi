@@ -18,6 +18,13 @@ A fullstack **Green IT** application focused on sustainability.
 
 ---
 
+### 🏗️ [Rolando Grandi Ingeniería Estructural](https://rolando-grandi-ingenieria-estructural.com/)
+A **static website** created for a civil engineering company, showcasing services in structural design and pathology.  
+Built with **WordPress**.  
+👉 [Visit website](https://rolando-grandi-ingenieria-estructural.com/)
+
+---
+
 ### 🎲 [GameGizmos](https://github.com/AlikBook/Game_Gizmos)
 A platform for **rating board games** and **participating in events**.
 - Role-based access for guests and users  
@@ -37,13 +44,6 @@ Includes login system with roles (guest, user, admin).
 A **touristic guide to Paris**, built using **HTML, CSS, and JavaScript**.  
 Developed as part of our introductory web development courses.  
 👉 [GitHub repo](https://github.com/AlikBook/Web_Project)
-
----
-
-### 🏗️ [Rolando Grandi Ingeniería Estructural](https://rolando-grandi-ingenieria-estructural.com/)
-A **static website** created for a civil engineering company, showcasing services in structural design and pathology.  
-Built with **WordPress**.  
-👉 [Visit website](https://rolando-grandi-ingenieria-estructural.com/)
 
 ---
 
