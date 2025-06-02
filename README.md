@@ -30,7 +30,7 @@ A platform for **rating board games** and **participating in events**.
 - Role-based access for guests and users  
 - Users can rate games and join events
 - Hosted on vercel
-👉 [View live site]((https://game-gizmos.vercel.app/)) [GitHub repo](https://github.com/AlikBook/Game_Gizmos)
+👉 [View live site](https://game-gizmos.vercel.app/) · [GitHub repo](https://github.com/AlikBook/Game_Gizmos)
 
 ---
 
