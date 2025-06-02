@@ -13,7 +13,7 @@ Welcome to my personal GitHub page! Below you'll find a selection of my projects
 A fullstack **Green IT** application focused on sustainability.
 - **Frontend**: Vue.js  
 - **Backend**: Node.js + Express  
-- Hosted on [Vercel](https://vercel.com), with a database on [Railway](https://railway.com).  
+- Hosted on [Vercel](https://vercel.com) 
 👉 [View live site](https://green-it-vuejs.vercel.app/) · [GitHub repo](https://github.com/AlikBook/GreenGizmos)
 
 ---
@@ -28,8 +28,9 @@ Built with **WordPress**.
 ### 🎲 [GameGizmos](https://github.com/AlikBook/Game_Gizmos)
 A platform for **rating board games** and **participating in events**.
 - Role-based access for guests and users  
-- Users can rate games and join events  
-👉 [GitHub repo](https://github.com/AlikBook/Game_Gizmos)
+- Users can rate games and join events
+- Hosted on vercel
+👉 [View live site]((https://game-gizmos.vercel.app/)) [GitHub repo](https://github.com/AlikBook/Game_Gizmos)
 
 ---
 
